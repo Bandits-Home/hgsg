@@ -1,6 +1,6 @@
 <?php
 //
-// Schedule a Downtime
+// Functions for HGSG Members
 //
 
 require_once(dirname(__FILE__) . '/../../common.inc.php');
